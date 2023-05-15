@@ -1,9 +1,9 @@
-import ade from "../abis/ADE.json";
+// import ade from "../abis/ADE.json";
 import dai from "../assets/dai.svg";
 import weth from "../assets/weth.svg";
 import link from "../assets/chainlink.svg";
 import fau from "../assets/fau_2.png";
-import useAccount from "../components/hooks/useAccount";
+import useAccount from "../components/providers/web3/hooks/useAccount";
 
 
 const tokenImages = {

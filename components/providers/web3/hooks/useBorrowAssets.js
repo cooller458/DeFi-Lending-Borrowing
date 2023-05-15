@@ -1,6 +1,6 @@
 import useSWR from "swr"
 
-import { normalizeToken } from "../../../utils/normalize"
+import { normalizeToken } from "../../../../utils/normalize"
 
 const NETWORKS = {
     1: "Ethereum Mainnet",
